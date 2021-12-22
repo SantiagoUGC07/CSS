@@ -1,0 +1,37 @@
+body
+{
+    background-color: rgb(21, 122, 21);
+}
+
+h1
+{
+    font-size: 80px; 
+    color: rgb(7, 7, 7); 
+    text-align:left;
+}
+.text1
+{
+    font-size: 26px; 
+    color: rgb(215, 224, 219);
+    font-style: italic;
+    text-align: left;
+}
+.text2
+{
+    font-size: 38px; 
+    color: rgb(235, 225, 168); 
+    text-align: left;
+}
+.text3
+{
+    font-size: 66px; 
+    color: rgb(219, 177, 37);
+    text-align: left;
+}
+.text4
+{
+    font-size: 52px; 
+    color: rgb(145, 4, 34);
+    text-align: left;
+}
+

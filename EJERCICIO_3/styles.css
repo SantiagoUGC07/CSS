@@ -1,0 +1,72 @@
+.title
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(248, 242, 242);
+    text-shadow: black;
+    font-size: 50px;
+}
+body
+{
+    background-color: rgb(42, 117, 39);
+}
+.caja1
+{
+    width: 1000px;
+    height: 50px;
+    margin: 0 auto; /*para ponerle un MARGEN en todos los dados en la parte EXTERNA del bloque*/
+    font-size: 60px; /* para aumentar el TAMAÑO de la LETRA*/
+    padding: 20px; /*para hacer un MARGEN dentro del BLOQUE*/
+    border-radius: 80px;/*para CURVEAR EL BORDE, se puede hacer un CIRCULO o un OVALO*/
+    text-align: center;
+    background-color: rgb(250, 249, 249);
+    border: 16px  solid rgb(0, 0, 0);
+}
+.caja2
+{
+    width: 1050px;
+    height: 60px;
+    margin-right: auto; /*para ponerle un MARGEN en todos los dados en la parte EXTERNA del bloque*/
+    font-size: 50px; /* para aumentar el TAMAÑO de la LETRA*/
+    padding: 20px; /*para hacer un MARGEN dentro del BLOQUE*/
+    border-radius: 80px;/*para CURVEAR EL BORDE, se puede hacer un CIRCULO o un OVALO*/
+    background-color: rgb(223, 75, 39);
+    border: 18px solid rgb(211, 56, 18);
+    
+}
+.caja3
+{
+    width: 1050px;
+    height: 60px;
+    margin-left: auto; /*para ponerle un MARGEN en todos los dados en la parte EXTERNA del bloque*/
+    font-size: 50px; /* para aumentar el TAMAÑO de la LETRA*/
+    padding: 20px; /*para hacer un MARGEN dentro del BLOQUE*/
+    background-color: rgb(211, 153, 29);
+    border: 17px solid rgb(238, 145, 5);
+    
+}
+
+.caja4
+{
+    width: 1050px;
+    height: 60px;
+    margin: auto; /*para ponerle un MARGEN en todos los dados en la parte EXTERNA del bloque*/
+    font-size: 50px; /* para aumentar el TAMAÑO de la LETRA*/
+    padding: 20px; /*para hacer un MARGEN dentro del BLOQUE*/
+    background-color: rgb(13, 64, 233);
+    border: 6px  dotted rgb(6, 52, 177);
+}
+
+
+
+.text1
+{
+
+    color: black;
+    font-size: 20px;
+}
+
+.text2
+{
+    color: white;
+    font-size: 20px;
+}

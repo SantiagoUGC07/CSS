@@ -1,0 +1,53 @@
+.title
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(20, 20, 20);
+}
+
+.subtitle
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(21, 22, 21);
+}
+
+body
+{
+
+    /* background-image: url(https://images7.alphacoders.com/901/thumb-1920-901925.jpg); */
+    /* background-repeat: no-repeat; */ /*para que no se repita la imagen*/
+    /* background-size: cover;*/ /* para el tamño de la imagen*/
+    background-color: cornsilk;
+}
+
+.caja
+{
+    width: 300px;
+    height: 300px;
+    margin: 20px; /*para ponerle un MARGEN en todos los dados en la parte EXTERNA del bloque*/
+    /*margin-bottom: 20px; */ /*para ponerle un MARGEN en la parte INFERIOR en la parte externa del bloque*/
+    font-size: 50px; /* para aumentar el TAMAÑO de la LETRA*/
+    padding: 40px; /*para hacer un MARGEN dentro del BLOQUE*/
+    border-radius: 80px;/*para CURVEAR EL BORDE, se puede hacer un CIRCULO o un OVALO*/
+    
+}
+
+.rojo
+{
+    background-color: red;
+    border-top: 55px  dotted darkblue; /* para colocar un borde de color al bloque con un tamaño y en una posicicion en especifico 
+    dotted es para que el borde sea punteado y no como solid que lo hace recto*/
+}
+
+.verde
+{
+    background-color: green;
+    border: 6px solid darkorange;
+}
+
+.azul
+{
+    background-color: blue;
+    border: 8px solid darkred
+}
+
+/*Para sacar la cantidad de pixeles de tu bloque debes sumar, el tamño del bloque, mas el borde*/
